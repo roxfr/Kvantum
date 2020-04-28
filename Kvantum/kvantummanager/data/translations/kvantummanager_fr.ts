@@ -30,8 +30,8 @@
         <location filename="../../kvantummanager.ui" line="76"/>
         <source>Select a Kvantum
 theme folder</source>
-        <translation>Sélectionner un Kvantum
-dossier de thème</translation>
+        <translation>Sélectionner un dossier
+de thème Kvantum</translation>
     </message>
     <message>
         <location filename="../../kvantummanager.ui" line="113"/>
@@ -66,7 +66,7 @@ Kvantum peut utiliser en plus de ses propres thèmes.</translation>
 
 A disabled button means that
 the theme is already used.</source>
-        <translation>Kvantum utilise ce thème!
+        <translation>Kvantum utilise ce thème !
 
 Un bouton désactivé signifie que
 le thème est déjà utilisé.</translation>
@@ -86,8 +86,8 @@ le thème est déjà utilisé.</translation>
         <source>Revert to the default (root)
 settings of this theme.
 (Ctrl+Z)</source>
-        <translation>Revenir à la valeur par défaut (racine)
-paramètres de ce thème.
+        <translation>Revenir aux paramètres par défaut (racine)
+de ce thème.
 (Ctrl+Z)</translation>
     </message>
     <message>
@@ -416,7 +416,7 @@ lorsqu&apos;un clique gauche est effectué sur la barre de défilement.</transla
     <message>
         <location filename="../../kvantummanager.ui" line="668"/>
         <source>Scroll jump with middle click</source>
-        <translation>Défilement avec clic du milieu</translation>
+        <translation>Défilement avec le clic du milieu</translation>
     </message>
     <message>
         <location filename="../../kvantummanager.ui" line="711"/>
@@ -675,7 +675,7 @@ certaines applications la définissent elles-mêmes.</translation>
     <message>
         <location filename="../../kvantummanager.ui" line="1367"/>
         <source>Submenu overlap: </source>
-        <translation>Chevauchement de sous-menu : </translation>
+        <translation>Chevauchement des sous-menu : </translation>
     </message>
     <message>
         <location filename="../../kvantummanager.ui" line="1392"/>
